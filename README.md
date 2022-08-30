@@ -1,2 +1,2 @@
-# portfolio2x2
-2x2 portfolio layout
+## portfolio2x2
+ https://tapioca715.github.io/portfolio2x2/
